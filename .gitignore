@@ -1,2 +1,5 @@
 .git
+.goreleaser.yaml
 phoenician
+dist/
+.DS_Store
